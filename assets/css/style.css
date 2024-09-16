@@ -765,19 +765,19 @@ p {
 
 @media only screen and (min-width: 1400px) {
   .header-content-area {
-    height: 850px;
+    height: 250px;
   }
 }
 
 @media (max-width: 767px) {
   .header-content-area {
-    height: 650px;
+    height: 250px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .header-content-area {
-    height: 550px;
+    height: 250px;
   }
 }
 
