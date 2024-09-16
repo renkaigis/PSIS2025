@@ -554,8 +554,8 @@ p {
     2.HEADER css 
 ===========================*/
 .header-area {
-  padding-left: 15px;
-  padding-right: 15px;
+  /* padding-left: 15px;
+  padding-right: 15px; */
 }
 
 @media (max-width: 767px) {
@@ -757,27 +757,27 @@ p {
 /*===== Header =====*/
 .header-content-area {
   height: 750px;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
+  /* border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px; */
   position: relative;
   overflow: hidden;
 }
 
 @media only screen and (min-width: 1400px) {
   .header-content-area {
-    height: 250px;
+    height: 200px;
   }
 }
 
 @media (max-width: 767px) {
   .header-content-area {
-    height: 250px;
+    height: 200px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .header-content-area {
-    height: 250px;
+    height: 200px;
   }
 }
 
