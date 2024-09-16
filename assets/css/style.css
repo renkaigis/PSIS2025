@@ -566,7 +566,7 @@ p {
 
 /*===== Navbar =====*/
 .navbar-area {
-  padding: 10px 0;
+  padding: 15px 0 30px 0;
   position: absolute;
   top: 0;
   left: 0;
@@ -811,7 +811,7 @@ p {
 }
 
 .header-countdown .single-count-content .count {
-  font-size: 72px;
+  font-size: 40px;
   font-weight: 600;
   line-height: 60px;
 }
